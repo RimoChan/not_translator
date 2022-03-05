@@ -1,4 +1,4 @@
-# 【not_translator】不会翻译机
+# 【not_translator】不会翻译机！
 
 英语太难了，孩子学不会，怎么办？
 
